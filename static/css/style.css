@@ -190,9 +190,10 @@ img {
 #thumbnails a img {
 	display: block;
 	background: #fff;
-	/*width: 100%;*/
+	width: 100%;
 	max-width: 100%;
 	height: auto;
+	margin: auto;
 }
 
 #thumbnails a span {
